@@ -157,4 +157,6 @@ dependency-reduced-pom.xml
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+*.properties
+
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,maven
