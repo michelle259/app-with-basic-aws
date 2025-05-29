@@ -159,4 +159,6 @@ dependency-reduced-pom.xml
 
 *.properties
 
+*.git
+
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,maven
